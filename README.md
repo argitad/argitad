@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @argitad
-- 👀 I’m interested in web/software development
+- 👋 Hi, I’m Argita
+- 👀 I’m interested in software engineering
 - 🌱 I’m constantly learning new technologies
 - 💞️ I’m looking to collaborate on any project that requires my skills
 - 📫 How to reach me : My linkedin - https://www.linkedin.com/in/argita-dyrko-b72a891b0/
